@@ -1,0 +1,3 @@
+[submodule "learn-submd-stg"]
+	path = learn-submd-stg
+	url = https://github.com/immuslim/learn-submd-stg.git
